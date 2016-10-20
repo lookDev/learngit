@@ -1,7 +1,6 @@
-dev
-����֧���޸�
-add
-��֧�޸�����
-
+﻿dev分支
+主分支上修改
+正在进行的工作。。。
+dev完成。
 bug101
-master��֧�ϴ���bug��֧���޸�
+master分支上创建bug分支并修复
